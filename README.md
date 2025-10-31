@@ -283,10 +283,10 @@ dependencies {
 
 ## 👨‍💻 Pengembang
 
-- **Nama**: [Nama Anda]
-- **NIM**: [NIM Anda]
-- **Kelas**: [Kelas Anda]
-- **Mata Kuliah**: Pemrograman Mobile / Android
+- **Nama**: Hilman Maulana
+- **NIM**: 1237050020
+- **Kelas**: D
+- **Mata Kuliah**: Pengambangan Aplikasi Mobile
 
 ## 📄 Lisensi
 
