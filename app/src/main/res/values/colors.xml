@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#FFFFFF</color>
+    <color name="textPrimary">#111111</color>
+    <color name="textSecondary">#6B7280</color>
+    <color name="btnDark">#26282B</color>
+    <color name="fieldBorder">#E5E7EB</color>
+    <color name="cardBg">#F6F7F9</color>
+    
+    <!-- New vibrant colors -->
+    <color name="primaryOrange">#FF6B35</color>
+    <color name="primaryOrangeDark">#E85A2A</color>
+    <color name="accentYellow">#FFC93C</color>
+    <color name="accentGreen">#07BEB8</color>
+    <color name="accentPurple">#8B5CF6</color>
+    <color name="lightOrange">#FFF4ED</color>
+    <color name="lightYellow">#FFFBEB</color>
+    <color name="lightGreen">#E6FFFA</color>
+    <color name="lightPurple">#F5F3FF</color>
+    <color name="darkGray">#1F2937</color>
+    <color name="mediumGray">#9CA3AF</color>
+    <color name="lightGrayBg">#F9FAFB</color>
+</resources>
